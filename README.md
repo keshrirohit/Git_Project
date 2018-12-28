@@ -1,2 +1,2 @@
 # Git_Project
-chotu laura
+1st Git Project
