@@ -2,11 +2,11 @@ class A{
   public static void main(String[] args){
 	  
 	  void m1(){
-
+<<<<<<< HEAD
 		 Sopln("sunny"); 
-
+=======
 		hlo i am rohit and i am modify at line no.5  
-
+>>>>>>> 337b15ea3c5a5e55833aeb2697a08c1ddda45653
 		  
 	  }
   }
